@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ayomide
 #### TECH STACK
-#### Mobile Engineer,   Kotlin,   Java,  Flutter
+#### ANDROID,  Mobile Engineer,   Kotlin,   Java,  Flutter
 <!--
 **Stephenayor/Stephenayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
