@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Ayomide
 #### TECH STACK
-#### ANDROID,  Mobile Engineer,   Kotlin,   Java,  Flutter
-<!--
-**Stephenayor/Stephenayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Android,  Mobile Engineer,   Kotlin,   Java,  Flutter
 
 
 
@@ -16,8 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 #### About me :
-- 💻 I’m currently working on Exciting and Challenging Android applications.
-- 👯 I’m looking to collaborate with great and innovative teams.
-- 🌱 I'm learning and implementing different modern android development best practises in projects.
+- 💻 I’m currently working on Exciting Mobile Applications.
+- 👯 Open to joining and collaborate with Great and Innovative teams.
 - 📫 How to reach me: akinwunmiayomide6@gmail.com
-- ⚡ Fun fact: I started mobile development due to how fascinating mobile applications were to me, and the sense of having the apps right on my phone gave me a sense of security                   over private data and other sensitive informations.
+
