@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ayomide
 #### TECH STACK
-#### Android,  Mobile Engineer,   Kotlin,   Java,  Flutter
+#### MOBILE ENGINEER, ANDROID, FLUTTER,  Kotlin,   Java,  Flutter
 
 
 
