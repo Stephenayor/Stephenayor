@@ -5,7 +5,7 @@
 
 
 #### About me :
-- 💻 I’m currently working on High Performing Mobile Applications.
-- 👯 Open to joining and collaborate with Great and Innovative teams.
+- 💻 I’m currently working on exciting High Performing Mobile Apps.
+- 👯 Open to joining and collaborating with top tier teams.
 - 📫 How to reach me: akinwunmiayomide6@gmail.com
 
